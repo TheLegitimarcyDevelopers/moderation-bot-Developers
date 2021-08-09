@@ -38,5 +38,5 @@
 * Whois
 
 # SUPPORT:
- * [SUPPORT SERVER](https://discord.gg/5zKs2JHV) -for support 
- * [TUTORIAL VIDEO](https://youtube.com/channel/UCrVLNQPJu-8tWLP3AhUbrVg) -
+ * [SUPPORT SERVER](https://discord.gg/5zKs2JHV) - for support 
+ * [TUTORIAL VIDEO](https://youtube.com/channel/UCrVLNQPJu-8tWLP3AhUbrVg) - tutorialchannel -
